@@ -20,5 +20,6 @@ DELETE /transactions/:id : to deletes a transaction by ID in the transactions ta
 GET /summary: Retrieves a summary of transactions, such as total income, total expenses, and balance. Optionally, this can be filtered by date range or category.
 #######
 POST request
-![Screenshot 2024-10-22 224033](https://github.com/user-attachments/assets/14d1bb92-1657-4d1e-9787-1ed0e11a00bb)
+![Screenshot 2024-10-22 224105](https://github.com/user-attachments/assets/fee27461-88e5-4513-8d2b-b1ce212f073d)
+
 
