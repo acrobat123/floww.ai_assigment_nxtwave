@@ -20,7 +20,7 @@ DELETE /transactions/:id : to deletes a transaction by ID in the transactions ta
 GET /summary: Retrieves a summary of transactions, such as total income, total expenses, and balance. Optionally, this can be filtered by date range or category.
 #######
 POST request image
-https://github.com/acrobat123/floww.ai_assigment_nxtwave/blob/main/Screenshot%202024-10-22%20224033.png?raw=true
+![post image](https://github.com/acrobat123/floww.ai_assigment_nxtwave/blob/main/Screenshot%202024-10-22%20224033.png?raw=true)
 ##
 GET /transactions Image
 ![Screenshot 2024-10-22 224105](https://github.com/user-attachments/assets/43e7d47e-83e0-46e7-95f9-051c1ceddad4)
